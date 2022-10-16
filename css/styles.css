@@ -136,6 +136,7 @@ body {
   /* justify-content: center; */
   padding-top: 200px;
   padding-bottom: 200px;
+  margin: 0 auto;
 }
 .hero-title {
   font-weight: 900;
@@ -168,6 +169,7 @@ body {
   margin-right: auto;
   min-width: 216px;
   min-height: 50px;
+  border: none;
   border-radius: 5px;
   padding: 10px 32px;
 }
@@ -329,7 +331,7 @@ body {
 .clients-section {
   padding-top: 94px;
   padding-bottom: 94px;
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
 }
 .clients-list {
   display: flex;
@@ -373,7 +375,7 @@ body {
   align-items: baseline;
 }
 .footer-contacts {
-  margin-right: 93px;
+  margin-right: 70px;
 }
 .footer-contacts-item:not(:last-child) {
   margin-bottom: 9px;
